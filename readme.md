@@ -4,7 +4,17 @@ A prototype for text based UI built with React Ink.
 
 ## Development
 
-Open a Terminal tab and run `npm run dev`, and another Terminal tab running `bouwekit` after each code change.
+Open a Terminal tab and run:
+
+```
+npm run dev
+```
+
+Open another Terminal, where after each code change, you run:
+
+```
+node dist/cli.js
+```
 
 ## Install
 
